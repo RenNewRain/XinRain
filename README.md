@@ -1,51 +1,23 @@
-<header>
+# 新雨 个人主页
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+[![pEwoC4O.jpg](https://s21.ax1x.com/2025/03/20/pEwoC4O.jpg)](https://imgse.com/i/pEwoC4O)
 
-# GitHub Pages
+## 个人简介
+- **名字**：新雨
+- **身份**：学生
+- **兴趣爱好**：探索未知，追求极致，爱编程（虽然经常写出石山）
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+## 个人特质
+- **创新精神**：总能以独特的视角看待事物，创造出令人眼前一亮的作品。
+- **坚韧不拔**：面对困难从不退缩，有着坚定的信念和毅力去实现目标。
 
-</header>
+## 作品
+WaiGameStudio官网
 
-<!--
-  <<< Author notes: Step 3 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked the homepage content was not empty.
--->
+## 座右铭
+为那些无法实现的可能而努力；  
+新一天雨总落下，总需要撑伞。
 
-## Step 3: Customize your homepage
-
-_Nice work setting the theme! :sparkles:_
-
-You can customize your homepage by adding content to either an `index.md` file or the `README.md` file. GitHub Pages first looks for an `index.md` file. Your repository has an `index.md` file so we can update it to include your personalized content.
-
-### :keyboard: Activity: Create your homepage
-
-1. Browse to the `index.md` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Type the content you want on your homepage. You can use Markdown formatting on this page.
-1. (optional) You can also modify `title:` or just ignore it for now. We'll discuss it in the next step.
-1. Commit your changes to the `my-pages` branch.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+## 联系方式
+- **邮箱**：[xinrain@waigame.cn](mailto:xinrain@waigame.cn)
+- **社交媒体**：[BiliBili](https://space.bilibili.com/3537122153728569)
